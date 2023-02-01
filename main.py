@@ -9,9 +9,9 @@ def main():
     num3 = num2/100
     num4 = num3* num1
     num5 = num1 - num4
-    print ('Regular price: ' , num1 ) 
-    print ('Discount amount: ' , num2 ) 
-    print ( 'The final price: ' , num5 ) 
+    print ('Regular price: $' , num1 ) 
+    print ('Discount amount: $' , num4 ) 
+    print ( 'The final price: $' , num5 ) 
    
     pass
 
